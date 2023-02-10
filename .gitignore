@@ -1,0 +1,8 @@
+*.d
+*.a
+*.o
+bin/SimpleComputer
+bin/SimpleComputer.exe
+
+#bin/test
+#bin/test.exe
